@@ -1,0 +1,12 @@
+
+{
+  "definitions": {
+    "versions": [
+      { "title": "Version 3.1", "id": "v3.1", "url": "openapi.yaml" },
+      { "title": "Version 2.1", "id": "v2.1", "url": "openapi-v2.1.yaml" }
+    ]
+  },
+  // examples of additional options
+  "requiredPropsFirst": "true",
+  "showConsole": "true"
+}
